@@ -7,4 +7,8 @@ public class demo {
        System.out.println("Demo method");
        System.out.println(" Intellij Getting conflict");
    }
+   public void m3()
+   {
+       System.out.println("m3 method");
+   }
 }
